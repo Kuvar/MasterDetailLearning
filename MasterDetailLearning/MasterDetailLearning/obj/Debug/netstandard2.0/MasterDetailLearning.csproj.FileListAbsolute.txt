@@ -1,0 +1,15 @@
+c:\users\kuvar\source\repos\MasterDetailLearning\MasterDetailLearning\MasterDetailLearning\bin\Debug\netstandard2.0\MasterDetailLearning.deps.json
+c:\users\kuvar\source\repos\MasterDetailLearning\MasterDetailLearning\MasterDetailLearning\bin\Debug\netstandard2.0\MasterDetailLearning.dll
+c:\users\kuvar\source\repos\MasterDetailLearning\MasterDetailLearning\MasterDetailLearning\bin\Debug\netstandard2.0\MasterDetailLearning.pdb
+c:\users\kuvar\source\repos\MasterDetailLearning\MasterDetailLearning\MasterDetailLearning\obj\Debug\netstandard2.0\MasterDetailLearning.csprojResolveAssemblyReference.cache
+c:\users\kuvar\source\repos\MasterDetailLearning\MasterDetailLearning\MasterDetailLearning\obj\Debug\netstandard2.0\MasterDetailLearning.csproj.CoreCompileInputs.cache
+c:\users\kuvar\source\repos\MasterDetailLearning\MasterDetailLearning\MasterDetailLearning\obj\Debug\netstandard2.0\MasterDetailLearning.App.xaml.g.cs
+c:\users\kuvar\source\repos\MasterDetailLearning\MasterDetailLearning\MasterDetailLearning\obj\Debug\netstandard2.0\MasterDetailLearning.Views.MainPage.xaml.g.cs
+c:\users\kuvar\source\repos\MasterDetailLearning\MasterDetailLearning\MasterDetailLearning\obj\Debug\netstandard2.0\MasterDetailLearning.AssemblyInfoInputs.cache
+c:\users\kuvar\source\repos\MasterDetailLearning\MasterDetailLearning\MasterDetailLearning\obj\Debug\netstandard2.0\MasterDetailLearning.AssemblyInfo.cs
+c:\users\kuvar\source\repos\MasterDetailLearning\MasterDetailLearning\MasterDetailLearning\obj\Debug\netstandard2.0\MasterDetailLearning.dll
+c:\users\kuvar\source\repos\MasterDetailLearning\MasterDetailLearning\MasterDetailLearning\obj\Debug\netstandard2.0\MasterDetailLearning.pdb
+c:\users\kuvar\source\repos\MasterDetailLearning\MasterDetailLearning\MasterDetailLearning\obj\Debug\netstandard2.0\MasterDetailLearning.Views.MasterView.xaml.g.cs
+c:\users\kuvar\source\repos\MasterDetailLearning\MasterDetailLearning\MasterDetailLearning\obj\Debug\netstandard2.0\MasterDetailLearning.Views.DetailView.xaml.g.cs
+c:\users\kuvar\source\repos\MasterDetailLearning\MasterDetailLearning\MasterDetailLearning\obj\Debug\netstandard2.0\MasterDetailLearning.Views.PageView2.xaml.g.cs
+c:\users\kuvar\source\repos\MasterDetailLearning\MasterDetailLearning\MasterDetailLearning\obj\Debug\netstandard2.0\MasterDetailLearning.Views.PageView3.xaml.g.cs
